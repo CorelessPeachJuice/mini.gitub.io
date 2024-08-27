@@ -1,2 +1,2 @@
-# mini.gitub.io
+#wuxin.gitub.io
 无心
